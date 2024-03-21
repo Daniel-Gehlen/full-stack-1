@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#add-post-button {
+    display: block;
+    margin: 20px auto;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#add-post-button:hover {
+    background-color: #555;
+}

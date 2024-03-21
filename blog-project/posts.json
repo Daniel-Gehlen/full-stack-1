@@ -1,0 +1,15 @@
+{
+    "posts": [
+        {
+            "image": "url_da_imagem_1",
+            "title": "Título do Post 1",
+            "text": "Texto do Post 1"
+        },
+        {
+            "image": "url_da_imagem_2",
+            "title": "Título do Post 2",
+            "text": "Texto do Post 2"
+        }
+    ]
+}
+
